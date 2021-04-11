@@ -14,7 +14,7 @@ sites:
     url: https://cdn.discordapp.com
 
 status-website:
-themeURL: https://uptime.hawkscord.dev/assets/css.css
+theme: /assets/css.css
   cname: uptime.hawkscord.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
