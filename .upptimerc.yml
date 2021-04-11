@@ -15,7 +15,7 @@ sites:
 
 status-website:
 themeUrl: https://uptime.hawkscord.dev/assets/css.css
-  cname: uptime.hawkscord.dev
+#  cname: uptime.hawkscord.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
